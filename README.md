@@ -1,5 +1,15 @@
 # DemoCalc
 
+Architecture Diagram
+![architecture_diag drawio](https://user-images.githubusercontent.com/124643079/218223227-2adf6799-1c3b-460f-9c10-e20d0a1e90b9.png)
+
+Sequence Diagram
+![sequence_diag drawio](https://user-images.githubusercontent.com/124643079/218223260-fe16fc48-3b8c-49fa-9d5e-1529bc463ecf.png)
+
+Usecase Diagram
+![usecase_diag drawio](https://user-images.githubusercontent.com/124643079/218223323-02099183-1405-4ec1-a1ce-51ca08cf8e63.png)
+
+
 https://uicalcdemokarthik.azurewebsites.net/ - angular app
 
 https://calcdemokarthik.azurewebsites.net - API app
