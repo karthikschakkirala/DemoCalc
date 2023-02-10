@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GetAzureSignalRConnection": {
+      "commandName": "Project",
+      "commandLineArgs": "--useHttps --port 7250"
+    }
+  }
+}

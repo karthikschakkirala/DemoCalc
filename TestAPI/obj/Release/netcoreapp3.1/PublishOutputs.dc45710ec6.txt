@@ -1,0 +1,17 @@
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.exe
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.deps.json
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.runtimeconfig.json
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.pdb
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Azure.Amqp.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Azure.ServiceBus.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Projects\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
